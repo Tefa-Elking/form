@@ -1,0 +1,18 @@
+form{
+    margin: 50px auto;
+    padding: 50px;
+   
+    width: fit-content;
+    background-image:url(img.jpg);
+}
+#Login input{
+             margin: 20px;
+             padding: 10px;
+}
+#Login .Log-bt{
+    width: 100px;
+    background: blueviolet;
+    color: white;
+    padding: 10px;
+    margin-left: 27%;
+}
